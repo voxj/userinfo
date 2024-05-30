@@ -1,4 +1,4 @@
-# Userinfo
+# userinfo
 
 Get randomly-generated user informations on python3!
 
